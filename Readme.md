@@ -1,0 +1,1 @@
+Neste código me baseio em uma lista chamada de endereços chamada "cep.dat", que contém diversos registros desordenados, para criar um novo arquivo "indice.dat" que separa apenas o CEP de um registro do arquivo de entrada e o indicia com a posição "i". Além de ordenar o novo arquivo pelo CEP em ordem crescente.
